@@ -41,6 +41,11 @@ based on https://github.com/AndroidCrypto/ESP32_60_LED-Pixel_Ring_Clock
   * load_Pref
   * getAutoDimmed
 
+# esp32_60_LedPixelRing_webgui
+Added the WebGUI lib, altered it and implemented the WebGui for the pixel clock.
+
+<img width="408" height="953" alt="pxielclock_webgui" src="https://github.com/user-attachments/assets/706a8a7c-ebfc-4fa1-be13-a355c95ceb0f" />
+
 # Python dashboard
 
 psDashboard.py is a Python3 tkinter example showing how to control the settings remotely.
@@ -62,4 +67,3 @@ The clock showing 09:25:45
 You see the hour tick (red) is not on 09 but more to 10. The minute tick is the green one.
 
 The hour tick is not only showing one LED but the neighbor LEDs too with 50% brightness.
-# esp32_60_LedPixelRing_webgui
