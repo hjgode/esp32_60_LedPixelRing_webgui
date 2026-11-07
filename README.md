@@ -5,7 +5,7 @@ based on https://github.com/AndroidCrypto/ESP32_60_LED-Pixel_Ring_Clock
 # Requirements
 
 ## Arduino IDE 2.x
-
+## PlatformIO (within VS code)
 ## esp32 dev board
 
 ## Libs
@@ -15,7 +15,8 @@ based on https://github.com/AndroidCrypto/ESP32_60_LED-Pixel_Ring_Clock
 * MQTT.h: MQTT@2.5.3
 * ArduinoJson.h: ArduinoJson@7.4.3
 * Adafruit_NeoPixel.h: Adafruit NeoPixel@1.15.5
-
+* WebGUI
+* UpTime library
 # Changes
 
 * Added customization options by using variables for colors etc.
