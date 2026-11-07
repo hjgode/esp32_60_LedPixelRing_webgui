@@ -22,7 +22,7 @@ based on https://github.com/AndroidCrypto/ESP32_60_LED-Pixel_Ring_Clock
 
 * Added customization options by using variables for colors etc.
 
-* Settings can be changed using mqtt (/esp32_clock/...), yes it starts with a slash (due to mqtt lib :-( :
+* Settings can be changed using mqtt (esp32_clock/...)
 
 ## possible mqtt values
 
